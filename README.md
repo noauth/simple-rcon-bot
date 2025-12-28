@@ -1,5 +1,6 @@
 # simple-rcon-bot
 simple-rcon-bot is a simple rcon telegrm bot for minecraft servers installed as service
+![alt text](https://github.com/noauth/simple-rcon-bot/blob/main/logic.jpg)
 
 # Installing:
 This guide provide installation for Ubuntu Server
